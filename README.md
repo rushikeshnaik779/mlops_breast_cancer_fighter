@@ -11,8 +11,8 @@ The repository named mlops_breast_cancer_fighter due to the reason we tried to i
 
 # To do:
 
-1. Planing to built the inference script, where can give result/report custom dataset for evaluation
-2. Built webapp/Dashbaord via flask application to display these outputs , when the users upload the data
+1. Planing to built the inference script, where can give result/report custom dataset for evaluation.
+2. Built webapp/Dashbaord via flask application to display these outputs , when the users upload the data.
 
 
  **Steps to perform this project on our local systems**
@@ -22,5 +22,5 @@ Prequisites:
 $$
 
 Need to have Python 3.8>  installed and currently using Ms Visual Code for runing the below commands!
-1. Run the requirements file using command "pip install -r requirements.txt"
-2. run main.py file using command "python main.py"
+1. Run the requirements file using command "pip install -r requirements.txt".
+2. run main.py file using command "python main.py".
